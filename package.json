@@ -1,0 +1,19 @@
+{
+  "name": "webtechnologiesforuniversity",
+  "version": "1.0.0",
+  "description": "My projects for Web technologies University course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deviol0/WebTechnologiesForUniversity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deviol0/WebTechnologiesForUniversity/issues"
+  },
+  "homepage": "https://github.com/deviol0/WebTechnologiesForUniversity#readme"
+}
