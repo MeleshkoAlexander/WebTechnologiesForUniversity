@@ -1,0 +1,13 @@
+.button{
+    position: relative;
+    background-color: #4CAF50;
+    border: 1px solid green;
+    color: white;
+    font-size: 20px;
+    padding: 20px 20px;
+    width: 100px;
+    display: block;;
+}
+.TextBox {
+    border: 2px solid green;
+}
